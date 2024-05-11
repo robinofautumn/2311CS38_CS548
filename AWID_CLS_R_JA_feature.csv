@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+JA,18488.666618824005,18,"frame.offset_shift,frame.len,frame.marked,radiotap.present.flags,radiotap.present.rate,radiotap.present.tx_attenuation,radiotap.present.antenna,radiotap.present.xchannel,radiotap.present.mcs,radiotap.present.vendor_ns,radiotap.flags.shortgi,radiotap.channel.freq,radiotap.antenna,wlan.fc.version,wlan.fc.type,wlan.fc.order,wlan.bssid,wlan.frag,"

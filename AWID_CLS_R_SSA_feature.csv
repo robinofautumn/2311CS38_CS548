@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+SSA,11434.304133415222,22,"frame.len,frame.cap_len,radiotap.present.tsft,radiotap.present.flags,radiotap.present.rate,radiotap.present.fhss,radiotap.present.dbm_antnoise,radiotap.present.lock_quality,radiotap.present.antenna,radiotap.present.db_antnoise,radiotap.present.ext,radiotap.flags.cfp,radiotap.flags.preamble,radiotap.channel.type.2ghz,radiotap.channel.type.5ghz,radiotap.channel.type.sturbo,wlan.fc.type_subtype,wlan.fc.type,wlan.fc.ds,wlan.fc.frag,wlan.fc.order,wlan.bssid,"
