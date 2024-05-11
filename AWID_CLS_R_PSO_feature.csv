@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+PSO,1976.6423773765564,20,"frame.offset_shift,frame.len,frame.ignored,radiotap.present.channel,radiotap.present.db_antsignal,radiotap.present.rxflags,radiotap.present.mcs,radiotap.present.ampdu,radiotap.present.vendor_ns,radiotap.mactime,radiotap.flags.badfcs,radiotap.channel.freq,radiotap.channel.type.5ghz,radiotap.channel.type.passive,radiotap.channel.type.gsm,radiotap.channel.type.sturbo,radiotap.channel.type.half,wlan.fc.type,wlan.fc.retry,wlan.fc.order,"

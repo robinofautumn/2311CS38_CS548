@@ -1,0 +1,2 @@
+optimization,execution time of optimzier,no of feature selected,selected feature 
+GNDO,8435.446249723434,18,"frame.dlt,frame.offset_shift,frame.time_relative,frame.cap_len,frame.marked,radiotap.present.channel,radiotap.present.mcs,radiotap.present.ampdu,radiotap.flags.fcs,radiotap.channel.type.ofdm,radiotap.channel.type.gsm,wlan.fc.type,wlan.fc.frag,wlan.fc.pwrmgt,wlan.fc.moredata,wlan.fc.protected,wlan.fc.order,wlan.ba.bm,"
